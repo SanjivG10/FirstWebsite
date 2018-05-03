@@ -1,0 +1,142 @@
+.firstbody
+{
+  background: url(img/computer.jpg) center center no-repeat;
+  background-size: cover;
+  height:100vh;
+  width: 100%;
+  color: #000;
+  align-items: center;
+
+  font-family: monospace;
+}
+
+
+.companyname
+{
+  color: #c1c1c1;
+}
+
+.slogan
+{
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.content_divider
+{
+  background: #c1c1c1;
+  height: 1vh;
+}
+
+
+
+.secondbody
+{
+  background: #fff;
+  height: 80vh;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.sImageBody
+{
+
+height: 75vh;
+width: 50vh;
+}
+
+
+.quote
+{
+  text-align: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+
+.anotherquote
+{
+  font-family: monospace;
+  letter-spacing: 0.06em;
+  color: #093028;
+}
+
+.saImageBody
+{
+
+height: 100vh;
+width: 100%;
+}
+
+.girlworking
+{
+  width: 100%;
+  height: 80%;
+}
+
+.myHeading
+{
+  font-size: 40px;
+  font-family: serif;
+  letter-spacing: 0.1em;
+}
+
+.reasons
+{
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+
+.lastbody
+{
+  height: 50vh;
+  background: #c1c1c1;
+  margin-top: 10px;
+}
+
+.lastcontent
+{
+  margin-top: 20px;
+   font-size: 20px;
+   font-family: monospace;
+  letter-spacing: 0.09em;
+}
+
+.mycard
+{
+  margin-top: 20px;
+}
+
+footer
+{
+  background: #FFF9C4;
+  margin-top: 10px;
+}
+
+
+.footeritems
+{
+  margin-top: 5px;
+}
+
+.footerText
+{
+  font-family: cursive;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+.copyright
+{
+  font-family: monospace;
+  text-align: center;
+}
